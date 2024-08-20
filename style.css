@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(144, 144, 240);
+    text-align: center;
+}
+
+img{
+    border: 7px solid;
+    border-radius: 13px;
+}
